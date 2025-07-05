@@ -1,0 +1,117 @@
+ Steps
+1. Check if Python is Installed
+Open Command Prompt or PowerShell.
+
+Run:
+python --version
+
+If it says something like:
+Python was not found...
+then Python is not properly installed or not added to the system PATH.
+
+2. Install Python Properly
+Go to the official Python website and download the latest version for Windows.
+
+During installation, make sure to check the box:
+
+[✔] Add Python to PATH
+
+3. Verify After Installation
+Close and reopen the Command Prompt or PowerShell.
+
+Run:
+python --version
+
+You should now see:
+Python 3.x.x
+
+4. Create the Virtual Environment 
+Once Python is properly installed, try :
+
+python -m venv .venv
+This will create a .venv folder with the virtual environment.
+
+Optional: Fix the App Execution Aliases if 
+python -m venv .venv
+Python was not found; run without arguments to install from the Microsoft Store, or disable this shortcut from Settings > Apps > Advanced app settings > App execution aliases.
+Python was not found; run without arguments to install from the Microsoft Store...
+means that your system cannot find the Python executable in your PATH. Here's how to fix it:
+I
+f you're using Windows 10/11:
+
+Go to Settings > Apps > Advanced App Settings > App execution aliases
+
+Turn OFF the toggles for:
+
+python.exe
+
+python3.exe
+
+This avoids conflicts with the Microsoft Store stub.
+
+
+
+create virtual environment 
+
+Run this in your project root:
+
+
+python -m venv .venv
+This will create a .venv/ folder neatly containing everything.
+
+3. Activate the virtual environment
+On Windows (cmd):
+.venv\Scripts\activate
+
+On Windows (PowerShell):
+.\.venv\Scripts\Activate.ps1
+
+
+
+
+
+
+
+
+
+
+To install packages from a requirements.txt file into your virtual environment, follow these steps:
+
+✅ Step-by-Step Guide
+1. Activate your virtual environment
+Make sure you're in your project folder and your virtual environment is created (in .venv/).
+
+On Windows (cmd):
+.venv\Scripts\activate
+
+On Windows (PowerShell):
+.\.venv\Scripts\Activate.ps1
+On macOS/Linux:
+
+
+You should see the virtual environment name in your terminal prompt (like (.venv)).
+
+2. Install dependencies from requirements.txt
+Run:
+
+pip install -r requirements.txt
+This will install all packages listed in the file into your virtual environment.
+
+📦 Example requirements.txt
+
+3. Verify installed packages (optional)
+After installation, you can check installed packages with:
+
+pip list
+
+
+
+
+
+
+
+
+
+
+
+
