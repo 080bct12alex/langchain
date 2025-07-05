@@ -51,8 +51,8 @@ I am learmimg fundaental of langchain , RAG,  Agents
 
 This repo includes  LangChain concepts:
 
-- ✅ **Models** – How to use LLMs like OpenAI or Hugging Face in LangChain
-- 💬 **Prompts** – Creating prompt templates and managing prompt inputs/outputs
+- ✅ **Models** – How to use LLMs, chat models, embedding models like OpenAI ,antrophic, gemini, Hugging Face in LangChain
+- 💬 **Prompts** – Creating prompt templates, chat prompt templates,messages,message placeholder
 - 🧱 **Structured Output & Output Parsers** – Converting LLM responses into structured data
 - 🔗 **Chains** – Connecting multiple LLM calls and steps into pipelines
 - ⚙️ **Runnable Interfaces** – The unified API for chaining steps
@@ -65,27 +65,6 @@ This repo includes  LangChain concepts:
 - 🧠 **End-to-End AI Agents** – Building autonomous agents using LangChain
 
 
-
-## 📚 Topics Covered
-
-- ✅ LangChain Basics
-- ✅ Models
-- ✅ Prompts
-- ⬜ Structured Outputs
-- ⬜ Output Parsers
-- ⬜ Chains
-- ⬜ Runnables
-- ⬜ Document Loaders
-- ⬜ Text Splitters
-- ⬜ Vector Stores
-- ⬜ Retrievers
-- ⬜ Retrieval-Augmented Generation (RAG)
-- ⬜ Tools in LangChain
-- ⬜ Tool Calling
-- ⬜ Small Projects
-- ⬜ End-to-End AI Agent
-
----
 
 
 ---
