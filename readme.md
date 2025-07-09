@@ -77,7 +77,7 @@ This repo includes  LangChain concepts:
 | Models                        | ✅ Done     | LLMs,chat models,Embedding models [OpenAI, Anthropic, Gemini,Hugging face]            |
 | Prompts                       | ✅ Done     | static vs dynamic prompt , Prompt Templates, chat prompt templates, messages, messages placeholder              |
 | Structured Output             | ✅ Done  |  Structured Output  , typeddict , pydantic , jsonschema  for  LLMs finetuned for  giving Structured Output  if we tell |
-| Output Parsers                | ✅ Done| string Output Parsers , json Output Parsers , pydantic Output Parsers, structured Output Parsers for  LLMs  not finetuned for giving Structured Output if we tellespecially  but can also use for LLMs giving default structured output    |
+| Output Parsers                | ✅ Done| string Output Parsers , json Output Parsers , pydantic Output Parsers, structured Output Parsers for  LLMs  not finetuned for giving Structured Output if we tell specially  but can also use for LLMs giving default structured output    |
 | Chains                        | ⬜ Not Started | Coming  soon  |
 | Runnables                     | ⬜ Not Started | Coming  soon   |
 | Document Loaders              | ⬜ Not Started | Coming  soon  |
