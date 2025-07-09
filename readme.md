@@ -78,7 +78,7 @@ This repo includes  LangChain concepts:
 | Prompts                       | ✅ Done     | static vs dynamic prompt , Prompt Templates, chat prompt templates, messages, messages placeholder              |
 | Structured Output             | ✅ Done  |  Structured Output  , typeddict , pydantic , jsonschema  for  LLMs finetuned for  giving Structured Output  if we tell |
 | Output Parsers                | ✅ Done| string Output Parsers , json Output Parsers , pydantic Output Parsers, structured Output Parsers for  LLMs  not finetuned for giving Structured Output if we tell specially  but can also use for LLMs giving default structured output    |
-| Chains                        | ⬜ Not Started | Coming  soon  |
+| Chains                        | ✅ Done | simple chain , sequential chain , conditional chain , parellel chain  |
 | Runnables                     | ⬜ Not Started | Coming  soon   |
 | Document Loaders              | ⬜ Not Started | Coming  soon  |
 | Text Splitters                | ⬜ Not Started | Coming  soon       |
