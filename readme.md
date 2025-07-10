@@ -81,7 +81,7 @@ This repo includes  LangChain concepts:
 | Chains                        | ✅ Done | simple chain , sequential chain , conditional chain , parellel chain  |
 | Runnables                     | ✅ Done | why needed , what is it , how it is made , task specific runnables ,runnable premitive   |
 | Document Loaders              | ✅ Done | starting of rag  |
-| Text Splitters                | ⬜ Not Started | Coming  soon       |
+| Text Splitters                | ✅ Done | different types       |
 | Vector Stores                 | ⬜ Not Started | Coming  soon      |
 | Retrievers                    | ⬜ Not Started | Coming  soon               |
 | Retrieval-Augmented Generation| ⬜ Not Started | Coming  soon         |
