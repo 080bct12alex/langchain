@@ -79,7 +79,7 @@ This repo includes  LangChain concepts:
 | Structured Output             | ✅ Done  |  Structured Output  , typeddict , pydantic , jsonschema  for  LLMs finetuned for  giving Structured Output  if we tell |
 | Output Parsers                | ✅ Done| string Output Parsers , json Output Parsers , pydantic Output Parsers, structured Output Parsers for  LLMs  not finetuned for giving Structured Output if we tell specially  but can also use for LLMs giving default structured output    |
 | Chains                        | ✅ Done | simple chain , sequential chain , conditional chain , parellel chain  |
-| Runnables                     | ⬜ Not Started | Coming  soon   |
+| Runnables                     | ✅ Done | why needed , what is it , how it is made , task specific runnables ,runnable premitive   |
 | Document Loaders              | ⬜ Not Started | Coming  soon  |
 | Text Splitters                | ⬜ Not Started | Coming  soon       |
 | Vector Stores                 | ⬜ Not Started | Coming  soon      |
