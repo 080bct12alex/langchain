@@ -82,7 +82,7 @@ This repo includes  LangChain concepts:
 | Runnables                     | ✅ Done | why needed , what is it , how it is made , task specific runnables ,runnable premitive   |
 | Document Loaders              | ✅ Done | starting of rag  |
 | Text Splitters                | ✅ Done | different types       |
-| Vector Stores                 | ⬜ Not Started | Coming  soon      |
+| Vector Stores                 | ✅ Done | chroma      |
 | Retrievers                    | ⬜ Not Started | Coming  soon               |
 | Retrieval-Augmented Generation| ⬜ Not Started | Coming  soon         |
 | Tools                         | ⬜ Not Started | Coming soon            |
