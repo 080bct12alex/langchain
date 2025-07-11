@@ -83,7 +83,7 @@ This repo includes  LangChain concepts:
 | Document Loaders              | ✅ Done | starting of rag  |
 | Text Splitters                | ✅ Done | different types       |
 | Vector Stores                 | ✅ Done | chroma db      |
-| Retrievers                    | ⬜ Not Started | Coming  soon               |
+| Retrievers                    | ✅ Done | different types   |
 | Retrieval-Augmented Generation| ⬜ Not Started | Coming  soon         |
 | Tools                         | ⬜ Not Started | Coming soon            |
 | Tool Calling                  | ⬜ Not Started | Coming soon         |
