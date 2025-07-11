@@ -85,7 +85,7 @@ This repo includes  LangChain concepts:
 | Text Splitters                | ✅ Done | different types       |
 | Vector Stores                 | ✅ Done | chroma db      |
 | Retrievers                    | ✅ Done | different types   |
-| Retrieval-Augmented Generation| ⬜ Not Started |What RAG is? ,Why it matters?, How it works step by step?   |
+| Retrieval-Augmented Generation| ✅ Done |What RAG is? ,Why it matters?, How it works step by step?   |
 | Tools                         | ⬜ Not Started | Coming soon            |
 | Tool Calling                  | ⬜ Not Started | Coming soon         |
 | Small Projects                | ✅ Started | Ongoing                     | 
