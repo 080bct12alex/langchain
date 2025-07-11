@@ -59,7 +59,7 @@ This repo includes  LangChain concepts:
 - 📄 **Document Loaders** – Loading data from PDFs, web pages, etc.
 - ✂️ **Text Splitters** – Splitting large documents into smaller chunks
 - 🧠 **Vector Stores & Retrievers** – Storing and searching document embeddings
-- 📥 **Retrieval-Augmented Generation (RAG)** – Combining LLMs with context from your own data
+- 📥 **Retrieval-Augmented Generation (RAG)** – Combining LLMs with context from your own data . RAG — a powerful technique that combines retrieval and generation to improve the performance of large language models.
 - 🛠️ **Tool Calling** – Using LLMs to invoke external tools/functions
 - 🚧 **Mini Projects** – Hands-on tasks to reinforce concepts
 - 🧠 **End-to-End AI Agents** – Building autonomous agents using LangChain
@@ -84,7 +84,7 @@ This repo includes  LangChain concepts:
 | Text Splitters                | ✅ Done | different types       |
 | Vector Stores                 | ✅ Done | chroma db      |
 | Retrievers                    | ✅ Done | different types   |
-| Retrieval-Augmented Generation| ⬜ Not Started | Coming  soon         |
+| Retrieval-Augmented Generation| ⬜ Not Started |What RAG is? ,Why it matters?, How it works step by step?   |
 | Tools                         | ⬜ Not Started | Coming soon            |
 | Tool Calling                  | ⬜ Not Started | Coming soon         |
 | Small Projects                | ✅ Started | Ongoing                     | 
