@@ -26,6 +26,7 @@ applications, such as chatbots, question-answering systems, retrieval-augmented 
 5. Supports all major GenAI use cases
 6. Memory: allows AI applications to remember previous conversations or user inputs,
 7. Prompt Management:  organize and reuse prompts to get consistent and high-quality outputs from the LLM
+8. Chains : Connecting multiple LLM calls and steps into pipelines
 
 
 ---
