@@ -86,7 +86,7 @@ This repo includes  LangChain concepts:
 | Vector Stores                 | ✅ Done | chroma db      |
 | Retrievers                    | ✅ Done | different types   |
 | Retrieval-Augmented Generation| ✅ Done |What RAG is? ,Why it matters?, How it works step by step? , building YouTube Chatbot : a RAG system in LangChain  |
-| Tools                         | ⬜ Not Started | Coming soon            |
+| Tools                         | ✅ Done | built in tool , custom , toolkit    |
 | Tool Calling                  | ⬜ Not Started | Coming soon         |
 | Small Projects                | ✅ Started | Ongoing                     | 
 | End-to-End AI Agent           | ⬜ Not Started | Final capstone goal              |
