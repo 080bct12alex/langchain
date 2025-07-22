@@ -35,6 +35,8 @@ To manage complexity, I began **building a mental model** to sort what matters.
 > “Is this related to using a foundation model or building one?”
 
 ---------
+
+<img src="https://i.ibb.co/JWzTN5bR/Generative-AI-Mental-Model.png" alt="Generative-AI-Mental-Model" border="0">
   
 If you’re learning GenAI, don’t try to catch up with _everything_.  
 Instead:

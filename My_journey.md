@@ -3,6 +3,8 @@
 
 Over the past few weeks, I’ve been diving deep into **Generative AI** — and it’s been an exciting and eye-opening learning experience. I didn’t just explore what it is or how it works; I actually built things using it. I focused especially on **LangChain**, **RAG applications**, and **AI Agents**, all from the **user perspective**, and also touched on the **builder side** by working on data and training a model.
 
+<img src="https://i.ibb.co/JWzTN5bR/Generative-AI-Mental-Model.png" alt="Generative-AI-Mental-Model" border="0">
+
 Here’s what I learned:
 
 ----------

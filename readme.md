@@ -1,6 +1,10 @@
 # 🦜🔗 LangChain Learning Journey
 
-Welcome to my personal journey of learning [LangChain](w) — a powerful framework for developing applications with [language models](w) as part of my Generative AI (GenAI) journey from a user perspective. This repository documents my understanding, experimentation, and progress across core LangChain concepts and tools, eventually leading to building **end-to-end AI agents**.
+Welcome to my personal journey of learning [LangChain](w) — a powerful framework for developing applications with [language models](w) as part of my Generative AI (GenAI) journey from a user perspective. 
+
+<img src="https://i.ibb.co/JWzTN5bR/Generative-AI-Mental-Model.png" alt="Generative-AI-Mental-Model" border="0">
+
+This repository documents my understanding, experimentation, and progress across core LangChain concepts and tools, eventually leading to building **end-to-end AI agents**.
 
 ---
 
